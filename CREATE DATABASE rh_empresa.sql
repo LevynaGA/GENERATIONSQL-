@@ -10,3 +10,5 @@ CREATE TABLE colaboradores (
     salario DECIMAL(10,2) NOT NULL,
     departamento VARCHAR(50) NOT NULL
 );
+
+select * from colaboradores; 
